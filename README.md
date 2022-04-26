@@ -1,5 +1,5 @@
 
-# Analises de dados utilizando Pandas mas com foco no PowerBi e Tableau - Resilia Módulo 6
+# Análises de dados utilizando Pandas mas com foco no PowerBi e Tableau - Resilia Módulo 6
 
 Neste projeto foram realizadas análises exploratórias sobre o gasto dos parlamentares brasileiros porem com o foco no estado do Rio Grande do Sul durante o período de 2019, 2020 e 2021. Para isso, será utilizado o conjunto de dados sobre a Cota para o Exercício da Atividade Parlamentar, a CEAP.
 
@@ -29,15 +29,15 @@ Acessar o [notebook](https://colab.research.google.com/drive/13yvgq_mw7j0PHcWwxJ
 
 8. [Houve algo específico durante o período de tempo analisado que se sobressaiu? Se sim, por porque?](https://colab.research.google.com/drive/13yvgq_mw7j0PHcWwxJSdh4YUR8q9lGrI#scrollTo=IekKAjKhvONl)
 
-9. [Quantidade de parlamentares mulheres no Brasil,e foco no Rio Grande do Sul?](https://colab.research.google.com/drive/13yvgq_mw7j0PHcWwxJSdh4YUR8q9lGrI#scrollTo=N9IweJpMp8xt)
+9. [Quantidade de parlamentares mulheres no Brasil, e foco no Rio Grande do Sul?](https://colab.research.google.com/drive/13yvgq_mw7j0PHcWwxJSdh4YUR8q9lGrI#scrollTo=N9IweJpMp8xt)
 
 10. [Existe relação entre números de ocorrências do parlamentar no dataset com o número de gastos dele?](https://colab.research.google.com/drive/13yvgq_mw7j0PHcWwxJSdh4YUR8q9lGrI#scrollTo=DrNuzKjEpbqd)
 ## Slides da Apresentação do Projeto
 
-[Clique aqui para ver os slides sobre o desenvolvimento de equipe.](#)
+[Clique aqui para ver os slides sobre o desenvolvimento de equipe.](https://prezi.com/i/ojhckfrqxryl/projeto-dados-resilia-modulo-6/)
 
 [Clique aqui para ver os slides apresentados em aula, visualizações (PowerBi, Tableau).](#)
-## Autores - Grupo 2
+## Autores - Grupo 7
 
 ### Para acessar o perfil de cada contribuinte basta clicar na foto e você será redirecionado para o perfil do mesmo.
 
